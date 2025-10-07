@@ -1,1 +1,37 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\budgetplanner_3-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Category$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Category$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Category$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Category$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Category.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Category.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Category.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Category.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Model$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Model$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Model.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Model.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Model.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Model.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\State.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\State.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Txn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Txn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Txn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Txn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	budget\Txn.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Simon\budget-planer-scala\target\scala-3.3.1\classes\budget\Txn.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
